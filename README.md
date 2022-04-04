@@ -15,6 +15,7 @@ Python 3.6
 5. 用drawContours()於畫出輪廓
 6. 印出數量
 
+測試圖片:
 ![image](https://github.com/wupeeeeei/count-number-of-chess/blob/main/IMG_5702.JPG)
 ![image](https://github.com/wupeeeeei/count-number-of-chess/blob/main/IMG_5703.JPG)
 ![image](https://github.com/wupeeeeei/count-number-of-chess/blob/main/IMG_5704.JPG)
